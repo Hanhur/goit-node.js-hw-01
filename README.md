@@ -3,7 +3,7 @@
 1. Отримуємо і виводимо весь список контактів у вигляді таблиці
 Команда в терміналі: `node index.js --action="list"`
 Приклад результату: https://monosnap.com/file/v1E9krW0K707DO89AZMiPyhkUtx7UZ
-![Screenshot](./screenshots/Action-list.jpg);
+![Screenshot](./screenshots/action-list.jpg);
 
 2. Отримуємо контакт по id
 Команда в терміналі: `node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6`
